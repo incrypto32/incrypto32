@@ -19,7 +19,7 @@ Im interested in politics,physics and computer science.
 
 
 <details> 
- <summary>🤖 <b>My Coding Stats</b>: </summary>
+ <summary>🤖 <b>My Weekly Coding Stats</b>: </summary>
 <br>
 
 <!--START_SECTION:waka-->
