@@ -1,10 +1,16 @@
 <a href="https://twitter.com/incrypto32" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/incrypto32" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/incrypto32" target="_blank" rel="nofollow"><img align="right" alt="Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <center><h1> Hi 👋 I am Krishnanand. </h1></center>
- I am a Tech evangelist, blockchain geek , Full stack developer! With my skillset in various tech stacks i make visionary dreams a reality.I am a huge beiliever of web 3.0 and the upcoming blockchain revolution. I am a freelance developer so next time you find yourself looking for a helping hand in your project or have a great idea you need to convert into a working product shoot me an email/text. Besides that I spend my time reading books or watching movies/series or chatting with my buddies. I like to talk about technology, politics and physics. So hit me up if it ticks any of your interest list too.
+I am a Full stack developer / Blockchain Geek / Reader / Trader! 
+With my skill set in various tech stacks and  tools in my tech arsenal I make visionary dreams a reality.
+I am a huge believer of web 3.0 and the upcoming blockchain revolution.
 
-I make  Dapps[Decentralised Apps] , Mobile apps, bots and write microservices in go. Also have a great deal of experience in configuring cloud servers and deploying applications to services like AWS, GCP and Digital Ocean.I am linux lover. I am also into economics and i trade stocks and crypto on the side too.
-Im interested in politics,physics and computer science.
+I make  Dapps, Mobile apps, bots and write APIs and microservices. I'm Also experienced in configuring cloud servers and deploying applications to services like AWS, GCP and Digital Ocean.I am linux lover. I am also into economics and I trade stocks and crypto on the side too.
+
+I like to dive into theoretical computer science reading papers and research works.
+Besides that I spend my time reading books or watching movies/series and building shitty apps that don't make any sense just for the sake of fun. 
+I like to talk about technology, philosophy and physics. So hit me up if it ticks any of your interest lists too.
+
  <br /> 
  <br /> 
 
