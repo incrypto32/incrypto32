@@ -5,7 +5,7 @@ I am a Full stack developer / Blockchain Geek / Reader / Trader!
 With my skill set in various tech stacks and  tools in my tech arsenal I make visionary dreams a reality.
 I am a huge believer of web 3.0 and the upcoming blockchain revolution.
 
-I make  Dapps, Mobile apps, bots and write APIs and microservices. I'm Also experienced in configuring cloud servers and deploying applications to services like AWS, GCP and Digital Ocean.I am linux lover. I am also into economics and I trade stocks and crypto on the side too.
+I make  Dapps, Mobile apps, bots and write APIs and microservices. I'm Also experienced in configuring cloud servers and deploying applications to services like AWS, GCP and Digital Ocean. I am also into economics and I trade stocks and crypto on the side too.
 
 I like to dive into theoretical computer science reading papers and research works.
 Besides that I spend my time reading books or watching movies/series and building shitty apps that don't make any sense just for the sake of fun. 
