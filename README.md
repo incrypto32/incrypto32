@@ -18,7 +18,7 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Blockchain Development and decentralized systems.
 - 💣 My Tech Arsenal - Solidity, GO, Flutter, React, Node JS, Vue JS, Python
 - 🤝 Open for freelance works in web development, Dapps Development , Mobile app development (Android , IOS), Bots , API's.
-- 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact.
+<!-- - 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact. -->
 
 
 ---
