@@ -30,11 +30,11 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-Solidity     7 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.71 % 
-TypeScript   6 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   35.02 % 
-Rust         3 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
-HTML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Solidity     7 hrs 39 mins   ██████████▓░░░░░░░░░░░░░░   42.40 % 
+TypeScript   4 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Rust         3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+HTML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 <!--END_SECTION:waka-->
 
