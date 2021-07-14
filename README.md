@@ -30,11 +30,11 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.97 % 
-HTML         2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Assembly     1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-SCSS         1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-CSS          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TypeScript   3 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   36.46 % 
+HTML         2 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Assembly     1 hr 44 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+SCSS         1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
