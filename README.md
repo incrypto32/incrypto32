@@ -30,8 +30,7 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-Assembly     1 hr 44 mins    ██████████████▒░░░░░░░░░░   57.63 % 
-TypeScript   1 hr 17 mins    ██████████▓░░░░░░░░░░░░░░   42.37 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
