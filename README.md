@@ -30,7 +30,11 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart       2 hrs 29 mins   ██████████████░░░░░░░░░░░   55.89 % 
+Go         1 hr 41 mins    █████████▒░░░░░░░░░░░░░░░   37.80 % 
+Solidity   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
