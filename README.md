@@ -30,11 +30,11 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-C++          20 hrs 54 mins  ████████████████████▓░░░░   82.50 % 
-Go           1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-TypeScript   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Python       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Dart         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+C++          19 hrs 54 mins  ██████████████████████▓░░   90.67 % 
+TypeScript   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Dart         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
