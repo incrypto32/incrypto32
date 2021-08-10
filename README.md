@@ -30,7 +30,7 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-C++      7 hrs 18 mins   █████████████████████████   99.90 % 
+C++   6 hrs 20 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
