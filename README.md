@@ -30,7 +30,7 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+XML   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
