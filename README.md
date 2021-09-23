@@ -2,7 +2,7 @@
 
 <center><h1> Hi 👋 I am Krishnanand. </h1></center>
 I am a Full stack developer / Blockchain Geek / Reader / Trader! 
-With my skill set in various tech stacks and  tools in my tech arsenal I make visionary dreams a reality.
+With my skill set in various tech stacks.With the tools in my tech arsenal I make visionary dreams a reality.
 I am a huge believer of web 3.0 and the upcoming blockchain revolution.
 
 I make  Dapps, Mobile apps, bots and write APIs and microservices. I'm Also experienced in configuring cloud servers and deploying applications to services like AWS, GCP and Digital Ocean. I am also into economics and I trade stocks and crypto on the side too.
