@@ -30,11 +30,11 @@ I like to talk about technology, philosophy and physics. So hit me up if it tick
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.41 % 
-Solidity     1 hr 53 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-TypeScript   1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Python       1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JavaScript   4 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.98 % 
+Solidity     1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.71 % 
+TypeScript   1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Python       1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+JSON         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 <!--END_SECTION:waka-->
 
