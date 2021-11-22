@@ -21,8 +21,8 @@ Web3 Developer
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 16 mins  ███████████████████████▓░   95.27 % 
-JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+TypeScript   8 hrs 47 mins   ███████████████████████▒░   93.79 % 
+JSON         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
 
