@@ -9,7 +9,6 @@ Web3 Developer
  
 - 👨🏽‍💻 Smart contract developer, Web3 evangelist, NFT's , DEFI geek
 - 💣 My Tech Arsenal - Solidity,Typescript, GO, Flutter, React, Node JS, Vue JS
--
 <!-- - 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact. -->
 
 
