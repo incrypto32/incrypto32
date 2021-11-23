@@ -2,7 +2,7 @@
 
 <center><h1> Hi 👋 I am Krishnanand. </h1></center>
 I love #BUIDLing stuff that matter
-Web3 Developer
+
  <br /> 
  <br /> 
 
