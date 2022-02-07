@@ -21,9 +21,9 @@ I love #BUIDLing stuff that matter
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 41 mins   ████████████████████▒░░░░   81.02 % 
+TypeScript   7 hrs 40 mins   ████████████████████▒░░░░   81.01 % 
 Solidity     36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-JSON         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JSON         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
