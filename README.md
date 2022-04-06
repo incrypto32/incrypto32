@@ -7,7 +7,7 @@ I love #BUIDLing stuff that matter
  <br /> 
 
  
-- 👨🏽‍💻 Smart contract developer, Web3 evangelist, NFT's , DEFI geek
+- 👨🏽‍💻 Smart contracts, Web3, NFT's, DeFi
 - 💣 My Tech Arsenal - Solidity,Typescript, GO, Flutter, React, Node JS, Vue JS
 <!-- - 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact. -->
 
