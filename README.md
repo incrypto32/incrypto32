@@ -22,8 +22,7 @@ I love #BUIDLing stuff that matter
 <!--START_SECTION:waka-->
 
 ```text
-Solidity     1 hr 54 mins    ███████████████████░░░░░░   76.60 %
-TypeScript   34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
