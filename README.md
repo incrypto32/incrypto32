@@ -22,7 +22,10 @@ I love #BUIDLing stuff that matter
 <!--START_SECTION:waka-->
 
 ```text
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   1 hr 15 mins    ██████████████████▓░░░░░░   74.17 %
+JSON         19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
+YAML         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
