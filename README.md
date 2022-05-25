@@ -7,8 +7,8 @@
  <br /> 
 
  
-- 👨🏽‍💻 Smart contracts, Web3, NFT's, DeFi
-- 💣 My Tech Arsenal - Solidity,Typescript, GO, Flutter, React, Node JS, Vue JS
+- 👨🏽‍💻  Web3, NFT's, DeFi
+- 💣  Smart Contracts, Subgraphs, Go, Typescript, Flutter
 <!-- - 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact. -->
 
 
