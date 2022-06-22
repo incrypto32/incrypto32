@@ -22,12 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 mins         ████████████▓░░░░░░░░░░░░   50.19 %
-YAML         5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-TOML         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-GraphQL      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
