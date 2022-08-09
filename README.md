@@ -22,9 +22,10 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-Rust         5 hrs 9 mins    ████████████████▓░░░░░░░░   67.02 %
-Bash         47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Other        34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Rust         6 hrs 56 mins   █████████████████▒░░░░░░░   69.61 %
+Bash         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+JSON         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Other        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->
