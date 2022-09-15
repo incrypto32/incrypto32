@@ -22,7 +22,7 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
+Rust   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
