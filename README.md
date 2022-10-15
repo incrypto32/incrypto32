@@ -22,8 +22,9 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-YAML   2 mins          ████████████████▓░░░░░░░░   66.72 %
-JSON   1 min           ████████▒░░░░░░░░░░░░░░░░   33.28 %
+TypeScript   12 mins         ██████████████████▓░░░░░░   74.42 %
+YAML         2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
