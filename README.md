@@ -22,7 +22,10 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+GraphQL      1 min           ██████████████▓░░░░░░░░░░   58.88 %
+TypeScript   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+JSON         0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
