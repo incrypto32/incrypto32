@@ -22,12 +22,12 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   19 hrs 25 mins  ███████████████████░░░░░░   76.43 %
-JSON         2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-JavaScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-YAML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-CSS          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-GraphQL      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+TypeScript   20 hrs 24 mins  ███████████████████░░░░░░   76.38 %
+JSON         2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+CSS          1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+JavaScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+YAML         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+GraphQL      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
