@@ -22,7 +22,7 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Rust   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
