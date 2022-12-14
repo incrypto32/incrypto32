@@ -22,7 +22,10 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-Rust   2 mins          █████████████████████████   100.00 %
+GraphQL      2 mins          ██████████░░░░░░░░░░░░░░░   40.54 %
+Rust         2 mins          █████████▓░░░░░░░░░░░░░░░   38.61 %
+JSON         1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
