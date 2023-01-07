@@ -22,7 +22,9 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-Solidity   5 mins          █████████████████████████   100.00 %
+TypeScript   8 mins          ██████████████████████▓░░   91.17 %
+GraphQL      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
