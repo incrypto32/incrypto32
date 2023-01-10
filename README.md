@@ -22,10 +22,12 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   28 mins         █████████████░░░░░░░░░░░░   52.09 %
-TypeScript   19 mins         █████████░░░░░░░░░░░░░░░░   35.55 %
-JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript   1 hr 59 mins    ██████████▒░░░░░░░░░░░░░░   40.98 %
+JavaScript   53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+SCSS         51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+CSS          27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
