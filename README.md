@@ -22,11 +22,11 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-Dart         3 hrs 15 mins   ███████████░░░░░░░░░░░░░░   43.90 %
-TypeScript   2 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.36 %
-YAML         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Git Config   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Dart         3 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   43.29 %
+TypeScript   2 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.82 %
+YAML         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Git Config   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
