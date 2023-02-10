@@ -8,7 +8,7 @@ A Dev exploring the open web3 lands
 
  
 - 👨🏽‍💻  Web3, NFT's, DeFi
-- 💣  Smart Contracts, Subgraphs, Go, Typescript, Flutter
+- 💣  Typescript, React, Go, Flutter
 <!-- - 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact. -->
 
 
