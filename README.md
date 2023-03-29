@@ -22,10 +22,9 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 13 mins    █████████████▒░░░░░░░░░░░   53.93 %
-Rust         29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-Markdown     11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Other        11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+TypeScript   1 hr 15 mins    ███████████████▓░░░░░░░░░   62.10 %
+Markdown     11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Other        11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
 ```
 
 <!--END_SECTION:waka-->
