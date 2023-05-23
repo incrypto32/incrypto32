@@ -22,11 +22,11 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```text
-Rust         14 hrs 40 mins  ███████████████████░░░░░░   76.13 %
-JSON         1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-TypeScript   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-YAML         1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Rust         16 hrs 48 mins  █████████████████████░░░░   84.50 %
+TypeScript   1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+JSON         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
