@@ -22,8 +22,7 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       52 mins         ████████████████████████▓   99.08 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
