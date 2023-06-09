@@ -22,8 +22,11 @@ A Dev exploring the open web3 lands
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   7 mins          ███████████████████▓░░░░░   78.54 %
-SQL    2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+Rust         57 mins         ██████████████░░░░░░░░░░░   55.81 %
+TOML         28 mins         ███████░░░░░░░░░░░░░░░░░░   28.03 %
+SQL          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+YAML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+TypeScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
