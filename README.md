@@ -8,28 +8,23 @@ A Dev exploring the open web3 lands
 
  
 - 👨🏽‍💻  Web3, NFT's, DeFi
-- 💣  Typescript, React, Go, Flutter
+- 💣  Rust, Typescript, React, Go, Flutter
 <!-- - 🌐 Visit my [porfolio website](https://incrypt32.github.io/) for complete background and contact. -->
 
 
----
 
 
-<!--
 
+<!-- 
 <details> 
 <summary>🤖 <b>My Weekly Coding Stats</b>: </summary>
-
 <br>
+ -->
 
 <!--START_SECTION:waka-->
-```txt
-Rust         14 hrs 32 mins  ███████████████████▓░░░░░   78.87 %
-JavaScript   57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-TypeScript   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 <!--END_SECTION:waka-->
-</details>
--->
+
+<!-- </details> -->
+
+
 
