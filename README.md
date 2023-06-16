@@ -20,7 +20,7 @@ A Dev exploring the open web3 lands
 <br>
 
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 Rust         14 hrs 32 mins  ███████████████████▓░░░░░   78.87 %
 JavaScript   57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
@@ -28,7 +28,7 @@ YAML         53 mins         █▒░░░░░░░░░░░░░░░
 TypeScript   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 </details>
